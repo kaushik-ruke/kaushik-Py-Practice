@@ -19,8 +19,8 @@ print(c)
 #---------------------------------#
 
 p = str("s1")
-q = str(2)
-r = str(3.0)
+q = str(2)              #not a string
+r = str(3.0)            #not a string
 
 print(q)
 print(r)
