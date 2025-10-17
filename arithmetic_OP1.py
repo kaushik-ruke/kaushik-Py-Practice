@@ -1,4 +1,4 @@
-'''a=int(input("enter a "))
+a=int(input("enter a "))
 b=int(input("enter b "))
 3
 print(a+b)
@@ -7,7 +7,7 @@ print(a*b)
 print(a/b)
 print(a//b)
 print(a**b)
-print(a%b)'''
+print(a%b)
 
 #--------------------------------------------#
 
@@ -34,7 +34,6 @@ print(x > y)
 print(x < y)
 print(x >= y)
 print(x <= y)
-
 
 a = 5
 
