@@ -39,4 +39,3 @@ print((6 + 3) - (6 + 3))
 print(100 + 5 * 3)       #multiplication has higher precedence so it get calculated first
 print(5 + 4 - 7 + 3)     # + and - have the same precedence so we have to follow the rule of left to right calculation
 
-
