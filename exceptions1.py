@@ -78,7 +78,6 @@ fav2 = input("What is your favorite color:")
 fav3 = input("What is your favorite F1 driver:")
 print(f"Do you want a {fav2} {fav1} to drive by {fav3}")
 
-'''
 #--------------------------------------------------------------------------------------------------#
 
 import math
@@ -105,4 +104,4 @@ print("Thank you!")
 
 #only integers will be accepted here
 #----------------------------------------------------------------------------#
-'''
+
